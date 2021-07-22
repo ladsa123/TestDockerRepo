@@ -2,6 +2,9 @@
 
 namespace SchoolEM.Models.Students
 {
+    /// <summary>
+    /// /Student class
+    /// </summary>
     public class Student
     {
         public Guid Id { get; set; }
